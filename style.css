@@ -1,0 +1,11 @@
+ /* selector {property: value; }
+ */
+#rcorners{
+    border-radius: 25px;
+    background-image: url(time-to-travel.jpg);
+    background-position: center;
+  background-repeat: no repeat;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;
+}
