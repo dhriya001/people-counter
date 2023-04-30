@@ -1,11 +1,48 @@
- /* selector {property: value; }
- */
-#rcorners{
-    border-radius: 25px;
-    background-image: url(time-to-travel.jpg);
-    background-position: center;
-  background-repeat: no repeat;
-  padding: 20px; 
-  width: 200px;
-  height: 150px;
+body {
+    background-image: url("https://www.freevector.com/uploads/vector/preview/5130/FreeVector-Night-Vector-Landscape.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+} 
+div {
+    background: white;
+    border: 20px;
+    border-radius: 10px;
+    margin: 200px;
+    padding: 5px;
+}
+button {
+       display: block;
+       margin: 5px;
+       background: hotpink; 
+       margin-left: auto;
+       margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+h2 {
+    text-align: center;
+
+}
+p {
+    text-align: center;
+}
+.Click-increment {
+    background: gray;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+.serve-save {
+    width: 100px;
+    border-radius: 5px;
+    background: green;
 }
